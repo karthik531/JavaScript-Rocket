@@ -1,3 +1,3 @@
-doCoolStuff(){
-	
+function doCoolStuff(){
+
 }
