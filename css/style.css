@@ -1,0 +1,13 @@
+body{
+	background-color: yellow;
+}
+
+.cool{
+	background-color: green;
+	background-color: blue;
+	transition: background-color 1s;
+}
+
+.cool.red{
+	background-color: red;
+}
