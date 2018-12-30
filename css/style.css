@@ -3,6 +3,8 @@ body{
 }
 
 .cool{
+	width: 100px
+	height: 100px;
 	background-color: green;
 	background-color: blue;
 	transition: background-color 1s;
